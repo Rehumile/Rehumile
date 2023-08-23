@@ -3,8 +3,9 @@ I'm a Software Development student who is passsionate about coding and eager to 
 
 As someone who has always had a passion for coding, I chose to puruse it as a career. I enjoy the challenge of solving problems with code and creating applications that make a difference. I'm also constantly seeking new opportunities to expand my knowledge and skill set.
 Some projects I have created include:
-- A Order tracking web app called [Kitchen Express](https://github.com/Rehumile/REHSEK080_FTO2301_GroupC_RehumileSekoto_IWA_18.git)
-+ A Online book library called [BookConnect](https://github.com/Rehumile/REHSEK080_FTO2301_GroupC_RehumileSekoto_IWA19.git)
++ A Podcast App Web app called [Podcast Hub](https://github.com/Rehumile/PodcastHubApp.git)
+- A Order tracking web app called [Kitchen Express](https://github.com/Rehumile/Kitchen-Express-Web-App.git)
++ A Online book library called [BookConnect](https://github.com/Rehumile/Book-Library-WebApp.git)
 
 
 
